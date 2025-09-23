@@ -1,0 +1,21 @@
+leftnav:
+- identifier: d33a8363-970c-e585-c387-1281009e7b53
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 8cc164f2-05db-f7f2-c044-d376773c0551
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: bfebb164-c18d-c1b8-9c70-7f2a55be3c76
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 30
+- identifier: af9e3069-18b1-4bb5-846c-9eed512d88c9
+  name: Communication Guidance
+  pageRef: /pages/communication-guidance
+  weight: 40
+- identifier: c6c9e164-7413-2ff1-0047-7449c617ca5e
+  name: Op-Ed Examples
+  pageRef: /pages/OpEdExamples
+  weight: 50
