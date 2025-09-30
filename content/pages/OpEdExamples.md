@@ -2,6 +2,8 @@
 content_type: page
 description: This section includes Op-Ed examples provided by the instructors as well
   as student examples.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Op-Ed Examples
@@ -11,7 +13,7 @@ uid: c6c9e164-7413-2ff1-0047-7449c617ca5e
 Op-Ed Instructor Examples
 -------------------------
 
-Annotations by Robbie Stewart and Patrick White from the {{% resource_link "fedd2e69-4b39-421d-b55c-874e11d71af7" "Nuclear Science and Engineering Communication Lab" %}}.
+Annotations by Robbie Stewart and Patrick White from the [Nuclear Science and Engineering Communication Lab](http://mitcommlab.mit.edu/nse/about-the-lab/).
 
 {{% resource_link 0ed21092-21a6-a303-61f8-9d359fc06a87 "The false promise of nuclear power (PDF)" %}}. An Op-Ed from the Boston Globe, annotated to show which parts constitute the lede, nut graf, argument, and call to action.
 

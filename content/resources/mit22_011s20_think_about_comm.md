@@ -4,6 +4,8 @@ description: ''
 file: /courses/22-011-nuclear-engineering-science-systems-and-society-spring-2020/220c866e3a3a480a8562cf6fcf029ae1_MIT22_011S20_Think_About_Comm.pdf
 file_size: 1719725
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
