@@ -4,8 +4,6 @@ description: ''
 file: /courses/22-011-nuclear-engineering-science-systems-and-society-spring-2020/5a090640b390a60cf2431258fcb9170b_MIT22_011S20_DryCask_TechNt.pdf
 file_size: 520091
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

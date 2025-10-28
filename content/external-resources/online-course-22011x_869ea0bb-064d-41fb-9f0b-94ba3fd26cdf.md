@@ -1,0 +1,10 @@
+---
+content_type: external-resource
+external_url: http://openlearninglibrary.mit.edu/courses/course-v1:MITx+22.011x+3T2018/about
+has_external_license_warning: true
+license: https://en.wikipedia.org/wiki/All_rights_reserved
+status: ''
+title: online course 22.011x
+uid: 869ea0bb-064d-41fb-9f0b-94ba3fd26cdf
+wayback_url: ''
+---

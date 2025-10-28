@@ -4,8 +4,6 @@ description: ''
 file: /courses/22-011-nuclear-engineering-science-systems-and-society-spring-2020/2aba36850e2fbe19ca0c82a06b768f43_How2.jpg
 file_size: 156243
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

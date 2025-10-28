@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section includes class topics, instructors and notes.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -12,7 +10,7 @@ uid: 8cc164f2-05db-f7f2-c044-d376773c0551
 Schedule Note
 -------------
 
-The last half of the course, starting with class 9, was conducted online because of the [COVID-19 pandemic](https://en.wikipedia.org/wiki/COVID-19_pandemic). 
+The last half of the course, starting with class 9, was conducted online because of the {{% resource_link "afe35776-c30c-4afb-9f6a-ad65158bc028" "COVID-19 pandemic" %}}. 
 
 Instructor Key
 --------------

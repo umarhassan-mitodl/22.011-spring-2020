@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains the course meeting times, prerequisites, course
   description, and grading policy.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -23,16 +21,16 @@ There are no prerequisites.
 Corerequisites
 --------------
 
-Students must also enroll in the online course _[22.011x Nuclear Energy: Science, Systems and Society](http://openlearninglibrary.mit.edu/courses/course-v1:MITx+22.011x+3T2018/about)_, freely available on the [MIT Open Learning Library](https://openlearning.mit.edu/courses-programs/open-learning-library).
+Students must also enroll in the online course _{{% resource_link "869ea0bb-064d-41fb-9f0b-94ba3fd26cdf" "22.011x Nuclear Energy: Science, Systems and Society" %}}_, freely available on the {{% resource_link "b455c0ff-7685-456e-8bd6-9a5b976916f8" "MIT Open Learning Library" %}}.
 
 Course Description and Format
 -----------------------------
 
-In this exploratory seminar, first-year undergraduate students learn the basic physics of nuclear energy and radiation and learn to communicate their knowledge and perspective by writing a traditional Op-Ed piece. The course employs blended learning, as students use [the online course 22.011x](http://openlearninglibrary.mit.edu/courses/course-v1:MITx+22.011x+3T2018/about), freely available on the MIT Open Learning Library, to learn the technical content, and meet together in person for the communication component, developing and polishing their Op-Eds.
+In this exploratory seminar, first-year undergraduate students learn the basic physics of nuclear energy and radiation and learn to communicate their knowledge and perspective by writing a traditional Op-Ed piece. The course employs blended learning, as students use {{% resource_link "869ea0bb-064d-41fb-9f0b-94ba3fd26cdf" "the online course 22.011x" %}}, freely available on the MIT Open Learning Library, to learn the technical content, and meet together in person for the communication component, developing and polishing their Op-Eds.
 
 The course’s technical content offers an introduction to the basic physics of nuclear energy and radiation, with an emphasis on the unique attributes and challenges of nuclear energy as a low-carbon solution. Peaceful applications of ionizing radiation to help humankind, such as reactors for materials science research, nuclear medicine, and security initiatives, are also introduced. The course explores fission energy, establishing the scientific, engineering, and economic basis for fission reactors, and describes the state of the art in nuclear reactor technology. We also learn about magnetic fusion energy research, with lectures covering the scientific and engineering basis of tokamaks, the state of the art in world fusion experiments, and MIT’s vision for a high-magnetic-field fusion reactor.
 
-The open-ended writing project combines personal creativity and technical knowledge to share important messages about science. Presenting an exciting and engaging yet technically accurate short summary of a controversial scientific topic is an art form. Many scholars use the Op-Ed format to communicate with the public. Students will prepare a well-researched, one-page technical note (~850 words), and then transform this technical note into an Op-Ed. Working with the [Nuclear Science and Engineering Communication Lab](http://mitcommlab.mit.edu/nse/about-the-lab/), students will receive training on how to write a traditional Op-Ed piece (~750 words) of the kind seen in newspapers. Students will then have the option to present their opinion pieces to the class in any format they wish, whether in a formal presentation or through short films, YouTube lectures, songs, skits, etc.
+The open-ended writing project combines personal creativity and technical knowledge to share important messages about science. Presenting an exciting and engaging yet technically accurate short summary of a controversial scientific topic is an art form. Many scholars use the Op-Ed format to communicate with the public. Students will prepare a well-researched, one-page technical note (~850 words), and then transform this technical note into an Op-Ed. Working with the {{% resource_link "5051a43f-f8e1-4281-b41e-695c978c38c8" "Nuclear Science and Engineering Communication Lab" %}}, students will receive training on how to write a traditional Op-Ed piece (~750 words) of the kind seen in newspapers. Students will then have the option to present their opinion pieces to the class in any format they wish, whether in a formal presentation or through short films, YouTube lectures, songs, skits, etc.
 
 Course Objectives
 -----------------

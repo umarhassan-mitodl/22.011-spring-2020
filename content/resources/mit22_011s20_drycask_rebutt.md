@@ -4,8 +4,6 @@ description: ''
 file: /courses/22-011-nuclear-engineering-science-systems-and-society-spring-2020/d0f80179214e30e1d265fadcd93a6254_MIT22_011S20_DryCask_Rebutt.pdf
 file_size: 255956
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
